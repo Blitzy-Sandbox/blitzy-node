@@ -4,10 +4,10 @@ metadata:
   name: blitzy-node
   description: "Node.js runtime fork — exploring AI-assisted contributions to runtime internals"
   tags:
-    - javascript
-    - scaffolded
+    - typescript
+    - infrastructure
+    - refactor
   labels:
-    blitzy.com/status: scaffolded
     blitzy.com/language: javascript
   annotations:
     github.com/project-slug: Blitzy-Sandbox/blitzy-node
