@@ -1,3 +1,4 @@
+docs_dir: doc
 site_name: 'blitzy-node'
 nav:
   - Home: index.md
